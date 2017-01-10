@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         tv2.setText("Project Diva");
         TextView tv3=(TextView)findViewById(R.id.tv3);
         tv3.setText("Project Rock");
+        TextView tv4=(TextView)findViewById(R.id.tv4);
+        tv4.setText("Project Classic");
     }
 }
